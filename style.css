@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction:column;
+    object-fit:none;
+    flex-wrap: wrap;
+    justify-content: cover;
+    align-items:center;
+    margin: 20px;
+   
+    
+}
+.container img {
+    margin: 10px;
+    max-width: 50%;
+    height: 50%;
+    border: solid 2px black;
+  
+  
+}
